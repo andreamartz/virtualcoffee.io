@@ -12,8 +12,8 @@ export const andreamartz: MemberObject = {
 	name: 'Andrea Martz',
 	//
 	// Main URL - If not defined here, it will default to the website displayed on your GitHub profile. If that's not defined, then a link to your GitHub profile will be displayed.
-  mainUrl: 'https://andreamartz.dev/',
-  //
+	mainUrl: 'https://andreamartz.dev/',
+	//
 	// Bio - Accepts [markdown](https://spec.commonmark.org/0.30/). Please keep your bio to a reasonable length. Refer to our [members page](https://virtualcoffee.io/members/) for examples.
 	//	bio: `Full-stack dev | Avid learner | Passionate about education and equity & using tech to make it happen`,
 	bio: `Fullstack software engineer | NextJS | ReactJS | Node | ExpressJS | Passionate about education, equity, and accessibility`,
